@@ -1,5 +1,8 @@
 # MyDataBaseLab      :smiley:
 
+> I'm passing this database lab from home because of COVID-19 :mask:.  
+> I wish good health for people all over the world  	:heart:
+
 ## Requirements:
  - I'm using **Microsoft SQL Server** and **Visual Studio Code**  on Ubuntu for this lab.
  - I worked on **adventure worker 2012** database that is available [in this link](https://github.com/microsoft/sql-server-samples/releases).
