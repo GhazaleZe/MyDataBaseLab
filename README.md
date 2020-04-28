@@ -31,6 +31,17 @@ This session contains 5 questions.
    - fill the above column with comparing Due of each product with average(clear in .sql)
 5. Queries for increasing the salary of the employees and give them a Level concerning their salaries.
 
+ ## Lab3 :
+ 
+ 1.
+ - Create a Server Login.
+ - Create a role named Role1.
+ - Add the Role1 to the log in you've created earlier.
+ - With the created login go into SQL Server and create a table in AdventureWorks2012 database; then insert some data to it and read from it.
+ 2.
+ - In the AdventureWorks2012 database create a user with Role2 that has the permission of security admin.
+ - Give Role2 the permission of reading.
+
 
 
 ## Support:
