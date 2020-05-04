@@ -25,7 +25,7 @@ from Sales.SalesTerritory INNER JOIN Sales.SalesOrderHeader ON (Sales.SalesTerri
 GROUP BY ROLLUP(Sales.SalesTerritory.[Group],Sales.SalesTerritory.[Name])
 Order by Sales.SalesTerritory.[Group],Sales.SalesTerritory.[Name]
 
---q3**************************************************************************
+--q3**********************************************************************
 
 select * from Production.Product
 select * from Production.ProductCategory
