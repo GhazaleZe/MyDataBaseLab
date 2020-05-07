@@ -42,7 +42,7 @@ This session contains 5 questions.
  - In the AdventureWorks2012 database create a user with Role2 that has the permission of security admin.
  - Give Role2 the permission of reading.
 
-## Lab4:
+## Lab4 :wink: :
 > adventure worker 2012
 
 1. Run the first query in the lab4 file and explain in detail that what the last column in the result is. 
