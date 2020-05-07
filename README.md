@@ -42,7 +42,18 @@ This session contains 5 questions.
  - In the AdventureWorks2012 database create a user with Role2 that has the permission of security admin.
  - Give Role2 the permission of reading.
 
+## Lab4:
+> adventure worker 2012
 
+1. Run the first query in the lab4 file and explain in detail that what the last column in the result is. 
+2. A query to demonstrate  **sales count** and **total sales** for each territory and its region. Furthermore,  calculate **sales count** and **total sales** for all territories in each region; finally for all regions.
+
+<img width="448" alt="Screenshot (741)" src="https://user-images.githubusercontent.com/41547574/81325530-bba33a00-90ad-11ea-9f19-747f740ae431.png">
+
+3. A query to demonstrate **sales count** and **total sales** for each subcategory of the products and its group. Finally, it has records for demonstrating the count and values of all subcategories in each specific group.
+
+<img width="448" alt="Screenshot (742)" src="https://user-images.githubusercontent.com/41547574/81326295-dc1fc400-90ae-11ea-8bd8-cc037833a5b0.png">
+<img width="448" alt="Screenshot (743)" src="https://user-images.githubusercontent.com/41547574/81326299-dcb85a80-90ae-11ea-80eb-0c9350afe22a.png">
 
 ## Support:
 Reach out to me at ghazalze@yahoo.com.
