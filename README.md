@@ -1,7 +1,8 @@
 # MyDataBaseLab      :smiley:
 
 > I'm passing this database lab from home because of COVID-19 :mask:.  
-> I wish good health for people all over the world  	:heart:
+> I wish good health for people all over the world  	:heart:  
+> If you have a question or idea, check the [Discussions](https://github.com/GhazaleZe/MyDataBaseLab/discussions/1)
 
 ## Requirements:
  - I'm using **Microsoft SQL Server** and **Visual Studio Code**  on Ubuntu for this lab.
