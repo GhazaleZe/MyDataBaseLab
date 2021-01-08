@@ -5,7 +5,7 @@
 > If you have a question or idea, check the [Discussions](https://github.com/GhazaleZe/MyDataBaseLab/discussions/1)
 
 ## Requirements:
- - I'm using **Microsoft SQL Server** and **Visual Studio Code**  on Ubuntu for this lab.
+ - I'm using **Microsoft SQL Server** and **Visual Studio Code**  on Ubuntu and **Microsoft SQL Server Management Studio 18** on windows for this lab.
  - I worked on **adventure worker 2012** database that is available [in this link](https://github.com/microsoft/sql-server-samples/releases).
  
  ## Lab1:
